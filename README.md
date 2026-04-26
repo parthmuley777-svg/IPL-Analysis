@@ -156,6 +156,4 @@ This project is licensed under the **MIT License** — free to use and modify.
 
 ## 👨‍💻 Author
 
-Made with ❤️ and 🏏 by **[Your Name]**
-
-> ⭐ If you found this useful, please **star the repo** on GitHub!
+Made with ❤️ and 🏏 by Parth Muley
